@@ -1,0 +1,1 @@
+Confirm your drf-jwt-tutorial account!

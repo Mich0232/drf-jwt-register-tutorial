@@ -1,0 +1,7 @@
+Hello {{ user.email }},
+
+This is a custom message, please click the link below to confirm you email address:
+
+[Confirm Email: {{ activate_url }}]
+
+Best
